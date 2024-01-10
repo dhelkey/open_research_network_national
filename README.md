@@ -9,4 +9,4 @@ All analysis physically performed on PENN servers.
 
 Analysis provided under MIT license.
 
-analysis_code/ - Stores all project analysis
+TODO  - Standardize package structure. For now, everything can be flat. 
